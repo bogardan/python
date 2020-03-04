@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91f540a2-d8a0-416e-89c7-7f351edfd415" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson_1/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_1/5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +24,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1YekBjBSRaqQmM3lhhIsHLhFyvr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -42,7 +43,7 @@
       <recent name="$PROJECT_DIR$/lesson_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4">
+  <component name="RunManager" selected="Python.5">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,8 +128,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_1/5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5" />
         <item itemvalue="Python.4" />
         <item itemvalue="Python.3" />
         <item itemvalue="Python.2" />
@@ -168,36 +191,51 @@
       <option name="project" value="LOCAL" />
       <updated>1583318043407</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fourth">
+      <created>1583321718537</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583321718537</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fourth">
+      <created>1583321772797</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583321772798</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
     <MESSAGE value="second" />
     <MESSAGE value="third" />
-    <option name="LAST_COMMIT_MESSAGE" value="third" />
+    <MESSAGE value="fourth" />
+    <option name="LAST_COMMIT_MESSAGE" value="fourth" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2517" y="107" width="715" height="818" key="CommitChangelistDialog2" timestamp="1583321718459">
+    <state x="2517" y="107" width="715" height="818" key="CommitChangelistDialog2" timestamp="1583321772724">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2517" y="107" width="715" height="818" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583321718459" />
-    <state width="1899" height="276" key="GridCell.Tab.0.bottom" timestamp="1583321696479">
+    <state x="2517" y="107" width="715" height="818" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583321772724" />
+    <state width="1899" height="276" key="GridCell.Tab.0.bottom" timestamp="1583325784037">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583321696479" />
-    <state width="1899" height="276" key="GridCell.Tab.0.center" timestamp="1583321696479">
+    <state width="1899" height="276" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583325784037" />
+    <state width="1899" height="276" key="GridCell.Tab.0.center" timestamp="1583325784037">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583321696479" />
-    <state width="1899" height="276" key="GridCell.Tab.0.left" timestamp="1583321696479">
+    <state width="1899" height="276" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583325784037" />
+    <state width="1899" height="276" key="GridCell.Tab.0.left" timestamp="1583325784037">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583321696479" />
-    <state width="1899" height="276" key="GridCell.Tab.0.right" timestamp="1583321696479">
+    <state width="1899" height="276" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583325784037" />
+    <state width="1899" height="276" key="GridCell.Tab.0.right" timestamp="1583325784037">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583321696479" />
+    <state width="1899" height="276" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583325784037" />
     <state width="1899" height="341" key="GridCell.Tab.1.bottom" timestamp="1583320353737">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -214,17 +252,21 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1899" height="341" key="GridCell.Tab.1.right/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583320353737" />
-    <state x="2475" y="243" width="800" height="547" key="Vcs.Push.Dialog.v2" timestamp="1583318052345">
+    <state x="2475" y="243" width="800" height="547" key="Vcs.Push.Dialog.v2" timestamp="1583321854653">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2475" y="243" width="800" height="547" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583318052345" />
+    <state x="2475" y="243" width="800" height="547" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583321854653" />
     <state x="2593" y="133" width="564" height="767" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583321235657">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2593" y="133" width="564" height="767" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583321235657" />
-    <state x="2543" y="228" key="search.everywhere.popup" timestamp="1583311767944">
+    <state x="2668" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583321803908">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2543" y="228" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583311767944" />
+    <state x="2668" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583321803908" />
+    <state x="2543" y="228" width="672" height="678" key="search.everywhere.popup" timestamp="1583325639268">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="228" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583325639268" />
   </component>
 </project>
