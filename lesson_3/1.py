@@ -9,5 +9,3 @@ if str(a).isdigit() and str(b).isdigit() and int(b):
     print(result)
 else:
     print("Вы ввели не числа или пытаетесь делить на 0")
-
-
