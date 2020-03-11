@@ -1,6 +1,6 @@
-x=12
-y=253
-z=3898
+x=3
+y=3
+z=7
 
 def my_func (x:int,y:int,z:int):
     my_list = [x,y,z]
