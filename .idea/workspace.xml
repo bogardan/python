@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91f540a2-d8a0-416e-89c7-7f351edfd415" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson_5/7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_5/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_6/1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson_4" />
+        <entry key="$PROJECT_DIR$" value="lesson_5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,8 +45,8 @@
       <recent name="$PROJECT_DIR$/lesson_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.7">
-    <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,11 +54,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_5/3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_6/1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1" />
         <item itemvalue="Python.7" />
         <item itemvalue="Python.6" />
         <item itemvalue="Python.5" />
         <item itemvalue="Python.4" />
-        <item itemvalue="Python.3" />
       </list>
     </recent_temporary>
   </component>
@@ -362,12 +361,18 @@
       <option name="project" value="LOCAL" />
       <updated>1584612990977</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="l5_7">
+      <created>1584628698558</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1584628698558</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="second" />
     <MESSAGE value="third" />
     <MESSAGE value="fourth" />
     <MESSAGE value="fifth" />
@@ -392,7 +397,8 @@
     <MESSAGE value="l5_4" />
     <MESSAGE value="l5_5" />
     <MESSAGE value="l5_6" />
-    <option name="LAST_COMMIT_MESSAGE" value="l5_6" />
+    <MESSAGE value="l5_7" />
+    <option name="LAST_COMMIT_MESSAGE" value="l5_7" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2589" y="146" width="572" height="741" key="#2" timestamp="1583818998705">
@@ -413,50 +419,50 @@
     </state>
     <state x="597" y="104" width="695" height="803" key="CommitChangelistDialog2/0.0.1920.1053@0.0.1920.1053" timestamp="1584628696942" />
     <state x="2517" y="107" width="715" height="818" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583918415292" />
-    <state width="1897" height="274" key="GridCell.Tab.0.bottom" timestamp="1584628618396">
+    <state width="1897" height="344" key="GridCell.Tab.0.bottom" timestamp="1584783277135">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1897" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1584628618396" />
+    <state width="1897" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1584783277135" />
     <state width="1899" height="276" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583930229587" />
-    <state width="1897" height="274" key="GridCell.Tab.0.center" timestamp="1584628618395">
+    <state width="1897" height="344" key="GridCell.Tab.0.center" timestamp="1584783277133">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1897" height="274" key="GridCell.Tab.0.center/0.0.1920.1053@0.0.1920.1053" timestamp="1584628618395" />
+    <state width="1897" height="344" key="GridCell.Tab.0.center/0.0.1920.1053@0.0.1920.1053" timestamp="1584783277133" />
     <state width="1899" height="276" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583930229587" />
-    <state width="1897" height="274" key="GridCell.Tab.0.left" timestamp="1584628618394">
+    <state width="1897" height="344" key="GridCell.Tab.0.left" timestamp="1584783277132">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1897" height="274" key="GridCell.Tab.0.left/0.0.1920.1053@0.0.1920.1053" timestamp="1584628618394" />
+    <state width="1897" height="344" key="GridCell.Tab.0.left/0.0.1920.1053@0.0.1920.1053" timestamp="1584783277132" />
     <state width="1899" height="276" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583930229587" />
-    <state width="1897" height="274" key="GridCell.Tab.0.right" timestamp="1584628618395">
+    <state width="1897" height="344" key="GridCell.Tab.0.right" timestamp="1584783277134">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1897" height="274" key="GridCell.Tab.0.right/0.0.1920.1053@0.0.1920.1053" timestamp="1584628618395" />
+    <state width="1897" height="344" key="GridCell.Tab.0.right/0.0.1920.1053@0.0.1920.1053" timestamp="1584783277134" />
     <state width="1899" height="276" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583930229587" />
-    <state width="1897" height="344" key="GridCell.Tab.1.bottom" timestamp="1584619436214">
+    <state width="1897" height="344" key="GridCell.Tab.1.bottom" timestamp="1584783275828">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1897" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1584619436214" />
+    <state width="1897" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1584783275828" />
     <state width="1899" height="341" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583837549851" />
-    <state width="1897" height="344" key="GridCell.Tab.1.center" timestamp="1584619436213">
+    <state width="1897" height="344" key="GridCell.Tab.1.center" timestamp="1584783275827">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1897" height="344" key="GridCell.Tab.1.center/0.0.1920.1053@0.0.1920.1053" timestamp="1584619436213" />
+    <state width="1897" height="344" key="GridCell.Tab.1.center/0.0.1920.1053@0.0.1920.1053" timestamp="1584783275827" />
     <state width="1899" height="341" key="GridCell.Tab.1.center/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583837549851" />
-    <state width="1897" height="344" key="GridCell.Tab.1.left" timestamp="1584619436212">
+    <state width="1897" height="344" key="GridCell.Tab.1.left" timestamp="1584783275826">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1897" height="344" key="GridCell.Tab.1.left/0.0.1920.1053@0.0.1920.1053" timestamp="1584619436212" />
+    <state width="1897" height="344" key="GridCell.Tab.1.left/0.0.1920.1053@0.0.1920.1053" timestamp="1584783275826" />
     <state width="1899" height="341" key="GridCell.Tab.1.left/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583837549851" />
-    <state width="1897" height="344" key="GridCell.Tab.1.right" timestamp="1584619436213">
+    <state width="1897" height="344" key="GridCell.Tab.1.right" timestamp="1584783275827">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1897" height="344" key="GridCell.Tab.1.right/0.0.1920.1053@0.0.1920.1053" timestamp="1584619436213" />
+    <state width="1897" height="344" key="GridCell.Tab.1.right/0.0.1920.1053@0.0.1920.1053" timestamp="1584783275827" />
     <state width="1899" height="341" key="GridCell.Tab.1.right/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583837549851" />
-    <state x="555" y="237" width="800" height="550" key="Vcs.Push.Dialog.v2" timestamp="1584612995873">
+    <state x="555" y="237" width="800" height="550" key="Vcs.Push.Dialog.v2" timestamp="1584628713392">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state x="555" y="237" width="800" height="550" key="Vcs.Push.Dialog.v2/0.0.1920.1053@0.0.1920.1053" timestamp="1584612995873" />
+    <state x="555" y="237" width="800" height="550" key="Vcs.Push.Dialog.v2/0.0.1920.1053@0.0.1920.1053" timestamp="1584628713392" />
     <state x="2475" y="243" width="800" height="547" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583918417113" />
     <state x="2593" y="133" width="564" height="767" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583321235657">
       <screen x="1920" y="0" width="1920" height="1080" />
@@ -471,5 +477,16 @@
     </state>
     <state x="623" y="222" width="672" height="662" key="search.everywhere.popup/0.0.1920.1053@0.0.1920.1053" timestamp="1584009457909" />
     <state x="2543" y="228" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583328287260" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lesson_6/1.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
