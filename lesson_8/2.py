@@ -9,7 +9,7 @@ class ZeroDivisionException(ZeroDivisionError):
 
 try:
     try:
-        10 / 0
+        100 / 0
     except ZeroDivisionError:
         raise ZeroDivisionException('Деление на ноль запрещено')
 except ZeroDivisionException as error:
