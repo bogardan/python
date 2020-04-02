@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91f540a2-d8a0-416e-89c7-7f351edfd415" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson_4/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_6/5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson_3" />
+        <entry key="$PROJECT_DIR$" value="lesson_5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,8 +45,8 @@
       <recent name="$PROJECT_DIR$/lesson_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.7">
-    <configuration name="3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.5">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,11 +54,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_4/3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_6/1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_4/4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_6/2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_4/5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_6/3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_4/6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_6/4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_4/7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_6/5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.7" />
-        <item itemvalue="Python.6 (1)" />
-        <item itemvalue="Python.5 (1)" />
-        <item itemvalue="Python.4 (1)" />
-        <item itemvalue="Python.3 (1)" />
+        <item itemvalue="Python.5" />
+        <item itemvalue="Python.4" />
+        <item itemvalue="Python.3" />
+        <item itemvalue="Python.2" />
+        <item itemvalue="Python.1" />
       </list>
     </recent_temporary>
   </component>
@@ -318,17 +319,101 @@
       <option name="project" value="LOCAL" />
       <updated>1584191517403</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="l5_1">
+      <created>1584522900278</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1584522900278</updated>
+    </task>
+    <task id="LOCAL-00023" summary="l5_2">
+      <created>1584526344040</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1584526344040</updated>
+    </task>
+    <task id="LOCAL-00024" summary="l5_3">
+      <created>1584533133139</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1584533133139</updated>
+    </task>
+    <task id="LOCAL-00025" summary="l5_4">
+      <created>1584545768573</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1584545768573</updated>
+    </task>
+    <task id="LOCAL-00026" summary="l5_5">
+      <created>1584601099572</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1584601099572</updated>
+    </task>
+    <task id="LOCAL-00027" summary="l5_6">
+      <created>1584612990977</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1584612990977</updated>
+    </task>
+    <task id="LOCAL-00028" summary="l5_7">
+      <created>1584628698558</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1584628698558</updated>
+    </task>
+    <task id="LOCAL-00029" summary="l6_1">
+      <created>1584783525360</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1584783525360</updated>
+    </task>
+    <task id="LOCAL-00030" summary="l6_2">
+      <created>1584784647019</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1584784647019</updated>
+    </task>
+    <task id="LOCAL-00031" summary="l6_3">
+      <created>1585030141681</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1585030141682</updated>
+    </task>
+    <task id="LOCAL-00032" summary="l6_4">
+      <created>1585037086923</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1585037086923</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="first" />
-    <MESSAGE value="second" />
-    <MESSAGE value="third" />
-    <MESSAGE value="fourth" />
-    <MESSAGE value="fifth" />
-    <MESSAGE value="sixth" />
     <MESSAGE value="l2_1+2" />
     <MESSAGE value="l2_3" />
     <MESSAGE value="l2_4" />
@@ -343,79 +428,131 @@
     <MESSAGE value="l4_3" />
     <MESSAGE value="l4_4" />
     <MESSAGE value="l4_5" />
-    <option name="LAST_COMMIT_MESSAGE" value="l4_5" />
+    <MESSAGE value="l5_1" />
+    <MESSAGE value="l5_2" />
+    <MESSAGE value="l5_3" />
+    <MESSAGE value="l5_4" />
+    <MESSAGE value="l5_5" />
+    <MESSAGE value="l5_6" />
+    <MESSAGE value="l5_7" />
+    <MESSAGE value="l6_1" />
+    <MESSAGE value="l6_2" />
+    <MESSAGE value="l6_3" />
+    <MESSAGE value="l6_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="l6_4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2589" y="146" width="572" height="741" key="#2" timestamp="1583818998705">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2589" y="146" width="572" height="741" key="#2/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583818998705" />
-    <state x="2642" y="325" width="465" height="383" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583914600817">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="722" y="317" width="465" height="383" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584521520543">
+      <screen x="0" y="0" width="1920" height="1053" />
     </state>
+    <state x="722" y="317" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1053@0.0.1920.1053" timestamp="1584521520543" />
     <state x="2642" y="325" width="465" height="383" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583914600817" />
-    <state x="2517" y="107" width="695" height="803" key="CommitChangelistDialog2" timestamp="1584346906326">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="597" y="104" width="695" height="803" key="CommitChangelistDialog2/0.0.1920.1053@0.0.1920.1053" timestamp="1584191517181" />
-    <state x="2517" y="107" width="715" height="818" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1584346906326" />
-    <state width="1899" height="276" key="GridCell.Tab.0.bottom" timestamp="1584346854838">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1897" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1584192335657" />
-    <state width="1899" height="276" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1584346854838" />
-    <state width="1899" height="276" key="GridCell.Tab.0.center" timestamp="1584346854838">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1897" height="274" key="GridCell.Tab.0.center/0.0.1920.1053@0.0.1920.1053" timestamp="1584192335656" />
-    <state width="1899" height="276" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1584346854838" />
-    <state width="1899" height="276" key="GridCell.Tab.0.left" timestamp="1584346854838">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1897" height="274" key="GridCell.Tab.0.left/0.0.1920.1053@0.0.1920.1053" timestamp="1584192335656" />
-    <state width="1899" height="276" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1584346854838" />
-    <state width="1899" height="276" key="GridCell.Tab.0.right" timestamp="1584346854838">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1897" height="274" key="GridCell.Tab.0.right/0.0.1920.1053@0.0.1920.1053" timestamp="1584192335657" />
-    <state width="1899" height="276" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1584346854838" />
-    <state width="1897" height="344" key="GridCell.Tab.1.bottom" timestamp="1584185636569">
+    <state x="693" y="275" width="524" height="499" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584522920954">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1897" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1584185636569" />
+    <state x="693" y="275" width="524" height="499" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1584522920954" />
+    <state x="597" y="104" width="695" height="803" key="CommitChangelistDialog2" timestamp="1585037086561">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="597" y="104" width="695" height="803" key="CommitChangelistDialog2/0.0.1920.1053@0.0.1920.1053" timestamp="1585037086561" />
+    <state x="2517" y="107" width="715" height="818" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583918415292" />
+    <state x="792" y="432" key="GitRewordDialog" timestamp="1584784807196">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="792" y="432" key="GitRewordDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1584784807196" />
+    <state width="1897" height="344" key="GridCell.Tab.0.bottom" timestamp="1585037693272">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1585037693272" />
+    <state width="1899" height="276" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583930229587" />
+    <state width="1897" height="344" key="GridCell.Tab.0.center" timestamp="1585037693270">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="344" key="GridCell.Tab.0.center/0.0.1920.1053@0.0.1920.1053" timestamp="1585037693270" />
+    <state width="1899" height="276" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583930229587" />
+    <state width="1897" height="344" key="GridCell.Tab.0.left" timestamp="1585037693269">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="344" key="GridCell.Tab.0.left/0.0.1920.1053@0.0.1920.1053" timestamp="1585037693269" />
+    <state width="1899" height="276" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583930229587" />
+    <state width="1897" height="344" key="GridCell.Tab.0.right" timestamp="1585037693271">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="344" key="GridCell.Tab.0.right/0.0.1920.1053@0.0.1920.1053" timestamp="1585037693271" />
+    <state width="1899" height="276" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583930229587" />
+    <state width="1897" height="344" key="GridCell.Tab.1.bottom" timestamp="1585037691890">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1585037691890" />
     <state width="1899" height="341" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583837549851" />
-    <state width="1897" height="344" key="GridCell.Tab.1.center" timestamp="1584185636569">
+    <state width="1897" height="344" key="GridCell.Tab.1.center" timestamp="1585037691889">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1897" height="344" key="GridCell.Tab.1.center/0.0.1920.1053@0.0.1920.1053" timestamp="1584185636569" />
+    <state width="1897" height="344" key="GridCell.Tab.1.center/0.0.1920.1053@0.0.1920.1053" timestamp="1585037691889" />
     <state width="1899" height="341" key="GridCell.Tab.1.center/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583837549851" />
-    <state width="1897" height="344" key="GridCell.Tab.1.left" timestamp="1584185636568">
+    <state width="1897" height="344" key="GridCell.Tab.1.left" timestamp="1585037691889">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1897" height="344" key="GridCell.Tab.1.left/0.0.1920.1053@0.0.1920.1053" timestamp="1584185636568" />
+    <state width="1897" height="344" key="GridCell.Tab.1.left/0.0.1920.1053@0.0.1920.1053" timestamp="1585037691889" />
     <state width="1899" height="341" key="GridCell.Tab.1.left/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583837549851" />
-    <state width="1897" height="344" key="GridCell.Tab.1.right" timestamp="1584185636569">
+    <state width="1897" height="344" key="GridCell.Tab.1.right" timestamp="1585037691890">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1897" height="344" key="GridCell.Tab.1.right/0.0.1920.1053@0.0.1920.1053" timestamp="1584185636569" />
+    <state width="1897" height="344" key="GridCell.Tab.1.right/0.0.1920.1053@0.0.1920.1053" timestamp="1585037691890" />
     <state width="1899" height="341" key="GridCell.Tab.1.right/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583837549851" />
-    <state x="555" y="237" width="800" height="550" key="Vcs.Push.Dialog.v2" timestamp="1584191519366">
+    <state x="555" y="237" width="800" height="550" key="Vcs.Push.Dialog.v2" timestamp="1585037090841">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state x="555" y="237" width="800" height="550" key="Vcs.Push.Dialog.v2/0.0.1920.1053@0.0.1920.1053" timestamp="1584191519366" />
+    <state x="555" y="237" width="800" height="550" key="Vcs.Push.Dialog.v2/0.0.1920.1053@0.0.1920.1053" timestamp="1585037090841" />
     <state x="2475" y="243" width="800" height="547" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583918417113" />
     <state x="2593" y="133" width="564" height="767" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583321235657">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2593" y="133" width="564" height="767" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583321235657" />
-    <state x="2668" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584346880761">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2668" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1584346880761" />
-    <state x="623" y="222" width="672" height="662" key="search.everywhere.popup" timestamp="1584009457909">
+    <state x="748" y="428" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584784739997">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state x="623" y="222" width="672" height="662" key="search.everywhere.popup/0.0.1920.1053@0.0.1920.1053" timestamp="1584009457909" />
+    <state x="748" y="428" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1053@0.0.1920.1053" timestamp="1584784739997" />
+    <state x="2668" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583321803908" />
+    <state x="623" y="222" width="672" height="662" key="search.everywhere.popup" timestamp="1585029525040">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="623" y="222" width="672" height="662" key="search.everywhere.popup/0.0.1920.1053@0.0.1920.1053" timestamp="1585029525040" />
     <state x="2543" y="228" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1583328287260" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lesson_6/1.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lesson_6/2.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lesson_6/3.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lesson_6/4.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lesson_6/5.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
